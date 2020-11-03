@@ -1,0 +1,5 @@
+{
+    "require": {
+        "salmanzafar/laravel-crud-generator": "^1.0"
+    }
+}
